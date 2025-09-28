@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RJD - Radio Javan Downloader</string>
+    <string name="download">دانلود</string>
+    <string name="enter_url">لینک رادیوجوان را وارد کنید</string>
+    <string name="downloading">در حال دانلود...</string>
+    <string name="download_complete">دانلود کامل شد</string>
+    <string name="download_failed">دانلود ناموفق</string>
+    <string name="invalid_url">لینک نامعتبر</string>
+    <string name="permission_required">مجوز دسترسی به حافظه مورد نیاز است</string>
+    <string name="grant_permission">اعطای مجوز</string>
+</resources>
